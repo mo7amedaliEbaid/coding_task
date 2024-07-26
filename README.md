@@ -26,8 +26,6 @@ assets
 ├── data
 │   └── series.json
 test
-├── blocs
-│   └── series_bloc_test.dart
 ├── repositories
 │   └── series_repository_test.dart
 ├── models
