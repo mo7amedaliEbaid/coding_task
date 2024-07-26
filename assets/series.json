@@ -1,0 +1,49 @@
+{
+  "series": {
+    "id": "1",
+    "name": "Yoga for Beginners",
+    "coverPhoto": "https://img1.theiconic.com.au/lro0lyNxv_ojkEmXZ-nPjYs9cnE=/634x811/filters:quality(95):fill(ffffff)/http%3A%2F%2Fstatic.theiconic.com.au%2Fp%2Fadidas-performance-4685-0539632-1.jpg",
+    "overviewVideo": "assets/videos/yoga_overview.mp4",
+    "description": "A comprehensive yoga series for beginners.",
+    "coaches": [
+      {
+        "id": "1",
+        "name": "Coach A",
+        "photo": "https://www.cosmossport.gr/2900574-product_medium/adidas-yoga-cover-up.jpg",
+        "bio": "Expert yoga instructor."
+      },
+      {
+        "id": "2",
+        "name": "Coach B",
+        "photo": "https://thesportsedit.com/cdn/shop/files/Adidas-YOGA-COVER-UP-BLACK-IP1255-Black-0003.jpg?v=1702548169",
+        "bio": "Certified yoga teacher."
+      }
+    ],
+    "classes": [
+      {
+        "id": "1",
+        "name": "Yoga Class 1",
+        "duration": "30 mins"
+      },
+      {
+        "id": "2",
+        "name": "Yoga Class 2",
+        "duration": "45 mins"
+      }
+    ],
+    "socialPosts": [
+      {
+        "id": "1",
+        "user": "User 1",
+        "content": "Loving this series!",
+        "timestamp": "2023-07-01T12:34:56Z"
+      },
+      {
+        "id": "2",
+        "user": "User 2",
+        "content": "Great session today.",
+        "timestamp": "2023-07-02T14:23:11Z"
+      }
+    ]
+  }
+}
