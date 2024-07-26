@@ -23,8 +23,7 @@ lib
 │   └── social_post_widget.dart
 └── main.dart
 assets
-├── data
-│   └── series.json
+|--series.json
 test
 ├── repositories
 │   └── series_repository_test.dart
